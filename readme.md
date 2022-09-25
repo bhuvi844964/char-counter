@@ -1,0 +1,1 @@
+char counter using HTML/CSS JavaScript. checkout it on live at https://bhuvnesh-char-counter.netlify.app
